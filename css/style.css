@@ -1,20 +1,15 @@
-.bg-black {
-  background: #000;
+body {
+  background: #333;
   color: #fff; }
 
-#main-header img {
-  width: 100%;
-  height: 100%; }
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8; }
 
-#main-header .port-item {
-  width: 30%; }
-  #main-header .port-item .fa {
-    font-size: 2em; }
+#main .home-inner {
+  padding-top: 50px; }
 
-#main-header .port-item:hover {
-  opacity: 0.8;
-  cursor: pointer; }
-
-@media (min-width: 1199px) {
-  .port-item {
-    padding: 3.2em !important; } }
+#main .fa {
+  color: #008ed6;
+  border-radius: 5px;
+  font-size: 25px; }
