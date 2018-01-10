@@ -13,3 +13,6 @@ body {
   color: #008ed6;
   border-radius: 5px;
   font-size: 25px; }
+
+#main #b {
+  border-color: #fff; }
